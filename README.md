@@ -7,6 +7,7 @@
 - [Sistema de Inimigos](docs_PTBR/inimigos.md)
 - [Sistema de Entidades](docs_PTBR/entidades.md)
 - [Itens e sua criação](docs_PTBR/Itens.md)
+- [Cena Debug](docs_PTBR/Debug.md)
 
 ## 📑 English Index
   ( English coming soon )
