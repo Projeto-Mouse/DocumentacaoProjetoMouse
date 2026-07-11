@@ -1,4 +1,4 @@
-# Documentação do projeto mouse.
+# Documentação do Entressolho.
 
 ## 📑 Índices pt_br
 
